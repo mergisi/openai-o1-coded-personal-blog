@@ -1,6 +1,6 @@
 # OpenAI o1 coded personal blog
 
-This project is a simple, personalized blog created using HTML, CSS, and JavaScript, with assistance from OpenAI. It demonstrates basic web development concepts and can serve as a starting point for building more complex blog systems.
+This project is a simple, personalized blog created using HTML, CSS, and JavaScript, with assistance from o1-preview . It demonstrates basic web development concepts and can serve as a starting point for building more complex blog systems.
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
