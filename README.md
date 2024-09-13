@@ -147,7 +147,6 @@ To deploy this blog, you can use services like GitHub Pages, Netlify, or any web
 
 Here are some screenshots of the blog in action:
 
-![Homepage Screenshot](screenshots/homepage.png)
 ![Blog Post Screenshot](screenshots/blog-post.png)
 
 ## Future Enhancements
